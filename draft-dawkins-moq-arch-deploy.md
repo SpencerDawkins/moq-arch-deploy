@@ -9,8 +9,8 @@ number:
 date:
 consensus: true
 v: 3
-area: WIT
-workgroup: MOQ Working Group
+area: "Applications and Real-Time"
+workgroup: "Media Over QUIC"
 keyword:
  - media
  - QUIC
@@ -20,9 +20,9 @@ venue:
   group: "Media Over QUIC"
   type: "Working Group"
   mail: "moq@ietf.org"
-  github: SpencerDawkins/moq-arch-deploy
+  github: "SpencerDawkins/moq-arch-deploy"
   arch: "https://mailarchive.ietf.org/arch/browse/moq/"
-  latest: "https://SpencerDawkins/moq-arch-deploy/draft-dawkins-moq-arch-deploy-latest.html"
+  latest: "https://SpencerDawkins.github.io/moq-arch-deploy/draft-dawkins-moq-arch-deploy.html"
 
 author:
  -
