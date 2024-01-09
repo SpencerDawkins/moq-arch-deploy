@@ -19,35 +19,38 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Media Over QUIC - Architecture and Deployment Scenarios"
+abbrev: "MoQ Arch and Deployment"
 category: info
 
-docname: draft-todo-yourname-protocol-latest
+docname: draft-dawkins-moq-arch-deploy-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: WIT
+workgroup: MOQ Working Group
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - media
+ - QUIC
+ - media architecture
+ - MOQ deployment
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Media Over QUIC"
+  type: "Working Group"
+  mail: "moq@ietf.org"
+  github: SpencerDawkins/moq-arch-deploy
+  arch: "https://mailarchive.ietf.org/arch/browse/moq/"
+  latest: "https://SpencerDawkins/moq-arch-deploy/draft-dawkins-moq-arch-deploy-latest.html"
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: your.email@example.com
+    ins: S. Dawkins
+    name: Spencer Dawkins
+    organization: Tencent America LLC
+    email: spencerdawkins.ietf@gmail.com
+    country: United States
 
 normative:
 
